@@ -93,7 +93,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hola & Bienvenido a mi Web!',
-        text: "Soy **Ahmed Alfonso**, un apasionado de la tecnología especializado en seguridad informática, administración de redes, inteligencia artificial, aplicaciones móviles y pentester. Mi compromiso con la innovación y la eficiencia me impulsa a desarrollar soluciones tecnológicas que protegen y optimizan la infraestructura de las organizaciones. Siente la libertad de visitarme en <a href='https://github.com/Hunt3r850'>GitHub</a> or follow me on <a href='https://x.com/aalfonso850'>Twitter/X</a>.",
+        text: "Soy **Ahmed Alfonso**, un apasionado de la tecnología especializado en seguridad informática, administración de redes, inteligencia artificial, aplicaciones móviles y pentester. Mi compromiso con la innovación y la eficiencia me impulsa a desarrollar soluciones tecnológicas que protegen y optimizan la infraestructura de las organizaciones. Siente la libertad de visitarme en <a href='https://github.com/Hunt3r850'>GitHub</a> o sígueme en <a href='https://x.com/aalfonso850'>Twitter/X</a>.",
         image: {
             src: '/hero.jpeg',
             alt: 'A person sitting at a desk in front of a computer'
