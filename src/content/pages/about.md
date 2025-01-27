@@ -2,9 +2,7 @@
 title: About
 seo:
   title: About Me
-  description: Soy un profesional con más de 15 años de experiencia en el sector de la tecnología, especializado en seguridad informática y administración de sistemas. Desde mis inicios en el ámbito de la informática en 2007, me he comprometido con la integridad y la eficiencia en cada proyecto que he emprendido.
-
-
+  description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
   image:
     src: '/about.jpeg'
     alt: A person sitting at a desk in front of a computer
@@ -14,7 +12,7 @@ seo:
 
 **Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
 
-## Ahmed Alfonso - Lic. Matemática-Informática (Hacker Ético)
+## Ethan Donovan - Web Developer based in Estonia
 
 **Greetings!** I'm Ahmed Alfonso, a passionate informático residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
 
