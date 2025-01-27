@@ -14,11 +14,11 @@ seo:
 
 ## Ahmed Alfonso  - Lic. Matemática- Informática & Hacker Ético
 
-**Greetings!** Soy Ahmed Odlanier Alfonso Garcia, un apasionado de la tecnología especializado en seguridad informática y administración de redes. Mi compromiso con la innovación y la eficiencia me impulsa a desarrollar soluciones tecnológicas que protegen y optimizan la infraestructura de las organizaciones.
+**Hola!** Soy Ahmed Odlanier Alfonso Garcia, un apasionado de la tecnología especializado en seguridad informática y administración de redes. Mi compromiso con la innovación y la eficiencia me impulsa a desarrollar soluciones tecnológicas que protegen y optimizan la infraestructura de las organizaciones.
 
 ## Habilidades y Experiencia
 
-Hacker Ético | Pruebas de Penetración y Ciberseguridad Junior, Seguridad Informática | CERTIPROF Especialista en Ciberseguridad | Fortaleciendo Sistemas de Información Desarrollo de APP móviles | Digitalización de negocio
+Hacker Ético | Pruebas de Penetración y Ciberseguridad Junior Seguridad Informática | CERTIPROF Especialista en Ciberseguridad | Fortaleciendo Sistemas de Información Desarrollo de APP móviles | Digitalización de negocio
 
 ## Innovation and Problem-Solving
 
