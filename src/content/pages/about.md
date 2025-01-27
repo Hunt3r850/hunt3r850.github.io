@@ -10,7 +10,7 @@ seo:
 
 ![Alt text for image](/about.jpeg)
 
-**Note!:** Informático con años en el sector tecnológico. Auditorías, administración de redes y hacking ético.
+**Nota!:** Informático con años en el sector tecnológico. Auditorías, administración de redes y hacking ético.
 
 ## Ahmed Alfonso  - Lic. Matemática- Informática & Hacker Ético
 
@@ -20,24 +20,20 @@ seo:
 
 Hacker Ético | Pruebas de Penetración y Ciberseguridad Junior Seguridad Informática | CERTIPROF Especialista en Ciberseguridad | Fortaleciendo Sistemas de Información Desarrollo de APP móviles | Digitalización de negocio
 
-## Innovation and Problem-Solving
+## Resolución de problemas e innovación
 
-I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
+Me encanta resolver problemas complejos y transformar ideas en proyectos. Ya sea optimizando el rendimiento, implementando nuevas funciones o solucionando problemas, abordo cada desafío con entusiasmo y compromiso de ofrecer soluciones de alta calidad.
 
-## Global Perspective, Local Impact
+## Perspectiva Global, Impacto Local
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
+El ámbito de la tecnología y la seguridad informática me ha permitido desarrollar una perspectiva global, entendiendo las tendencias y desafíos del sector a nivel mundial. Al mismo tiempo, he aplicado este conocimiento para generar un impacto positivo en las comunidades locales donde he trabajado. Desde la implementación de medidas de ciberseguridad hasta la optimización de redes que mejoran la eficiencia operativa, mi objetivo es contribuir al éxito y la seguridad de las organizaciones, sin importar su tamaño o ubicación.
 
-## Continuous Learning
+## Aprendizaje continuo
 
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
+La naturaleza dinámica de la industria tecnológica me inspira a estar al día con las últimas tendencias y avances. Siempre estoy ansioso por expandir mi conjunto de habilidades y adoptar tecnologías emergentes que mejoren la funcionalidad automatizada.
 
-## Collaboration and Communication
+## Colaboración y comunicación
 
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
+Creo firmemente en el poder de la colaboración y la comunicación efectiva para alcanzar el éxito en cualquier proyecto. Mi enfoque se basa en fomentar un ambiente de trabajo en equipo, donde cada miembro se sienta valorado y escuchado. A través de una comunicación clara y abierta. Además, mi capacidad para adaptarme a diferentes estilos de comunicación y culturas me permite trabajar de manera eficiente con equipos diversos y globales.
 
-## Get in Touch
-
-Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
-
-_Let's build something amazing together!_
+_Hagamos un mundo más seguro en esta era digital!_
