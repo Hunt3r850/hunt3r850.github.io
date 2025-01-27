@@ -47,11 +47,11 @@ const siteConfig: SiteConfig = {
     },
     headerNavLinks: [
         {
-            text: 'Home',
+            text: 'Inicio',
             href: '/'
         },
         {
-            text: 'Projects',
+            text: 'Proyectos',
             href: '/projects'
         },
         {
@@ -59,21 +59,21 @@ const siteConfig: SiteConfig = {
             href: 'https://github.com/Hunt3r850'
         },
         {
-            text: 'Tags',
+            text: 'Etiquetas',
             href: '/tags'
         }
     ],
     footerNavLinks: [
         {
-            text: 'About',
+            text: 'Sobre mí',
             href: '/about'
         },
         {
-            text: 'Contact',
+            text: 'Contacto',
             href: '/contact'
         },
         {
-            text: 'Terms',
+            text: 'Terminos',
             href: '/terms'
         }
     ],
@@ -106,8 +106,8 @@ const siteConfig: SiteConfig = {
         ]
     },
     subscribe: {
-        title: 'Subscribe to Hunt3r850 Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
+        title: 'Subscribete a Hunt3r850 Noticias',
+        text: 'Actualizaciones una vez por semana. Todas la publicaciones directamente a tu bandeja de entrada.',
         formUrl: '#'
     },
     postsPerPage: 8,
