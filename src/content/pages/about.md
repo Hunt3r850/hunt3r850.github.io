@@ -1,5 +1,5 @@
 ---
-title: About
+title: Sobre mí
 seo:
   title: About Me
   description: Informático con años en el sector tecnológico. Auditorías, administración de redes y hacking ético.
@@ -10,15 +10,15 @@ seo:
 
 ![Alt text for image](/about.jpeg)
 
-**Note!:** Informático con años en el sector tecnológico. Auditorías, administración de redes y hacking ético. [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+**Note!:** Informático con años en el sector tecnológico. Auditorías, administración de redes y hacking ético.
 
-## Ethan Donovan - Web Developer based in Estonia
+## Ahmed Alfonso  - Lic. Matemática- Informática & Hacker Ético
 
-**Greetings!** I'm Ahmed Alfonso, a passionate informático residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+**Greetings!** Soy Ahmed Odlanier Alfonso Garcia, un apasionado de la tecnología especializado en seguridad informática y administración de redes. Mi compromiso con la innovación y la eficiencia me impulsa a desarrollar soluciones tecnológicas que protegen y optimizan la infraestructura de las organizaciones.
 
-## Skills and Expertise
+## Habilidades y Experiencia
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+Hacker Ético | Pruebas de Penetración y Ciberseguridad Junior, Seguridad Informática | CERTIPROF Especialista en Ciberseguridad | Fortaleciendo Sistemas de Información Desarrollo de APP móviles | Digitalización de negocio
 
 ## Innovation and Problem-Solving
 
