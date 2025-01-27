@@ -5,7 +5,7 @@ seo:
   description: Get in touch through email or social media! Let me know how I can help.
 ---
 
-Thank you for reaching out! Whether you have a question, a suggestion, or just want to share your thoughts, I'm all ears. Feel free to get in touch through any of the methods below:
+¡Gracias por contactarnos! Ya sea que tenga una pregunta, una sugerencia o simplemente quiera compartir sus pensamientos, soy todo oídos. No dude en ponerse en contacto a través de cualquiera de los siguientes métodos:
 
 _Email:_
 Sientéte libre de escribirme al email [aalfonso850@yahoo.com](mailto:aalfonso850@yahoo.com), y trataré de darte mi mejor respuesta en el menor tiempo posible.
