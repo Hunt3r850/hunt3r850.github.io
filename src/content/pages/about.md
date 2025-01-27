@@ -10,7 +10,7 @@ seo:
 
 ![Alt text for image](/about.jpeg)
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+**Lic. Ahmed Alfonso:** Informático con años en el sector tecnológico. Auditorías, administración de redes y hacking ético. [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
 
 ## Ethan Donovan - Web Developer based in Estonia
 
