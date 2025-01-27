@@ -75,10 +75,6 @@ const siteConfig: SiteConfig = {
         {
             text: 'Terms',
             href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
         }
     ],
     socialLinks: [
@@ -92,25 +88,25 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'X/Twitter',
-            href: 'https://twitter.com/aalfonso850'
+            href: 'https://x.com/aalfonso850'
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ahmed Alfonso**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        title: 'Hola & Bienvenido a mi Web!',
+        text: "Soy **Ahmed Alfonso**, un apasionado de la tecnología especializado en seguridad informática, administración de redes, inteligencia artificial, aplicaciones móviles y pentester. Mi compromiso con la innovación y la eficiencia me impulsa a desarrollar soluciones tecnológicas que protegen y optimizan la infraestructura de las organizaciones. Siente la libertad de visitarme en <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://x.com/aalfonso850'>Twitter/X</a>.",
         image: {
             src: '/hero.jpeg',
             alt: 'A person sitting at a desk in front of a computer'
         },
         actions: [
             {
-                text: 'Get in Touch',
+                text: 'Estamos en contacto',
                 href: '/contact'
             }
         ]
     },
     subscribe: {
-        title: 'Subscribe to Dante Newsletter',
+        title: 'Subscribe to Hunt3r850 Newsletter',
         text: 'One update per week. All the latest posts directly in your inbox.',
         formUrl: '#'
     },
