@@ -2,7 +2,7 @@
 title: About
 seo:
   title: About Me
-  description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
+  description: Soy Ahmed Odlanier Alfonso García, un profesional en informática con más de 15 años de experiencia en el sector tecnológico. Desde 2007, he trabajado en auditorías de seguridad, administración de redes y hacking ético, ayudando a organizaciones a mejorar su infraestructura tecnológica y proteger sus datos.
   image:
     src: '/about.jpeg'
     alt: A person sitting at a desk in front of a computer
