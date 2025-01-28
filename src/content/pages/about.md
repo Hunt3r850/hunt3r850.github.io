@@ -18,7 +18,7 @@ seo:
 
 ## Habilidades y Experiencia
 
-Hacker Ético | Pruebas de Penetración y Ciberseguridad Junior Seguridad Informática | CERTIPROF Especialista en Ciberseguridad | Fortaleciendo Sistemas de Información Desarrollo de APP móviles | Digitalización de negocio
+Hacker Ético | Pruebas de Penetración y Ciberseguridad Junior | Seguridad Informática | CERTIPROF | Fortaleciendo Sistemas de Información | Desarrollo de APP móviles | Digitalización de negocios | AWS Cloud Quest: Cloud Practitioner | Amazon Web Services
 
 ## Resolución de problemas e innovación
 
