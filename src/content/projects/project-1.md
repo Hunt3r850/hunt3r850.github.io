@@ -1,7 +1,7 @@
 ---
 title: 'FreeVPS: Script Automatizado para VPS Gratuitas'
-description: EcoBuddy is a mobile app that gamifies sustainable living. Users can set eco-friendly goals, track their carbon footprint, and earn virtual rewards for adopting environmentally conscious habits.
-publishDate: 'Jan 02 2024'
+description: FreeVPS es un script automatizado que permite a los usuarios crear instancias VPS (Virtual Private Server) gratuitas de manera rápida y sencilla.
+publishDate: 'Feb 02 2024'
 seo:
   image:
     src: '/project-1.jpg'
@@ -13,7 +13,7 @@ seo:
 **Note:** VPS Gratis de por vida.
 
 **Descripción:**
-FreeVPS es un script automatizado que permite a los usuarios crear instancias VPS (Virtual Private Server) gratuitas de manera rápida y sencilla. Este proyecto está diseñado para facilitar el acceso a recursos de computación en la nube sin necesidad de conocimientos avanzados. Utiliza APIs y servicios en la nube para provisionar servidores temporales, ideales para pruebas, desarrollo o aprendizaje.
+Este proyecto está diseñado para facilitar el acceso a recursos de computación en la nube sin necesidad de conocimientos avanzados. Utiliza APIs y servicios en la nube para provisionar servidores temporales, ideales para pruebas, desarrollo o aprendizaje.
 
 ## Objectivo:
 
