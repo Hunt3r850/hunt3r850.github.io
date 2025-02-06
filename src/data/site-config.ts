@@ -106,7 +106,7 @@ const siteConfig: SiteConfig = {
         ]
     },
     subscribe: {
-        title: 'Subscribete a Hunt3r850 Noticias',
+        title: 'Subscribete a Noticias',
         text: 'Actualizaciones una vez por semana. Todas la publicaciones directamente a tu bandeja de entrada.',
         formUrl: '#'
     },
