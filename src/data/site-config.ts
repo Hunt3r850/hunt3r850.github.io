@@ -52,7 +52,7 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Proyectos',
-            href: '/project'
+            href: '/projects'
         },
         {
             text: 'Github',
