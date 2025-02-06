@@ -50,7 +50,6 @@ Scripts_hot es un repositorio que reúne varios scripts escritos en Bash, Python
 
 5. **Enlace:**
 
-- Puedes explorar los scripts y contribuir al proyecto en el siguiente enlace:
-[GitHub - Scripts_hot](https://github.com/Hunt3r850/Scripts_hot).
+- Puedes explorar los scripts y contribuir al proyecto en el siguiente enlace [GitHub - Scripts_hot](https://github.com/Hunt3r850/Scripts_hot)
 
 
