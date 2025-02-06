@@ -10,7 +10,7 @@ seo:
 
 ![Project preview](/project-1.jpg)
 
-**Note:** VPS Gratis de por vida [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+**Note:** VPS Gratis de por vida.
 
 **Descripción:**
 FreeVPS es un script automatizado que permite a los usuarios crear instancias VPS (Virtual Private Server) gratuitas de manera rápida y sencilla. Este proyecto está diseñado para facilitar el acceso a recursos de computación en la nube sin necesidad de conocimientos avanzados. Utiliza APIs y servicios en la nube para provisionar servidores temporales, ideales para pruebas, desarrollo o aprendizaje.
@@ -49,8 +49,3 @@ APIs : Integración con APIs de proveedores de servicios en la nube.
 - Puedes explorar el código y contribuir al proyecto en el siguiente enlace:
 GitHub - FreeVPS
 
-
-
-> We couldn't be happier with the results delivered by Ethan Donovan. From the initial concept discussions to the final product, their responsiveness and collaborative approach were impressive. Our startup's website now stands out, thanks to their creative input and commitment to excellence.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
